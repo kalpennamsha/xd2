@@ -1,0 +1,136 @@
+@font-face {
+    font-family: 'montserratregular';
+    src: url('../font/Montserrat/montserrat.regular-webfont.woff2') format('woff2'),
+         url('../font/Montserrat/montserrat.regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('../font/Poppins/poppins_regular_400-webfont.woff') format('woff2'),
+         url('../font/Poppins/poppins_regular_400-webfont.woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'poppinslight';
+    src: url('../font/Poppins/poppins_regular_400-webfont.woff') format('woff2'),
+         url('../font/Poppins/poppins_regular_400-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face{
+    font-family: 'open_sansregular';
+    src: url('../font/OpenSans/open-sans.regular-webfont.woff') format('woff2'),
+         url('../font/OpenSans/open-sans.regular-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'muliregular';
+    src: url('../font/Muli/muli.regular-webfont.woff') format('woff2'),
+         url('../font/Muli/muli.regular-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratsemibold';
+    src: url('..//font/Montserrat_semibold/montserrat_semibold-webfont.woff') format('woff2'),
+         url('..//font/Montserrat_semibold/montserrat_semibold-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'montserratmedium';
+    src: url('../font/Monsterrat_medium/fontsfree-net-montserrat-medium_1-webfont.woff') format('woff2'),
+         url('../font/Monsterrat_medium/fontsfree-net-montserrat-medium_1-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'open_sanslight';
+    src: url('../font/Opensans_light/opensans-light-webfont.woff') format('woff2'),
+         url('../font/Opensans_light/opensans-light-webfont.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+h1{
+    font-family: 'montserratsemibold';
+    font-size: 46px;
+    color:#FFFFFF;
+} 
+h2{
+    font-family: 'montserratregular';
+    font-size: 36px;
+    color: #303E4B;
+}
+h3{
+    font-family: 'montserratmedium';
+    font-size: 22px;
+    color: #303E4B;
+}
+
+.header p{
+    font-family: 'poppinslight';
+    color: #FFFFFF;
+    font-size: 22px;
+}
+
+p{
+    font-family: 'poppinsregular';
+    font-size: 15px;
+    color: #748EAA;
+}
+.abt p{
+    font-family: 'poppinsregular';
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.simple p{
+    font-family: 'poppinsregular';
+    font-size: 18px;
+
+}
+h4{
+    font-family: 'montserratregular';
+    font-size: 36px;
+    color: #FFFFFF;
+}
+.row1,
+.row1 p
+    {
+    font-family:'open_sansregular';
+    font-size: 15px;
+    color: #FFFFFF;
+}
+.contact h2{
+    font-family:'open_sansregular';
+    font-size: 22px;
+    margin: 20px;
+    color: #FFFFFF;
+}
+.box2 .kn{
+    margin: 20px;
+    font-family:'open_sansregular';
+    font-size: 15px;
+}
+
+.row1 h2{
+    font-family: 'muliregular';
+    font-size: 22px;
+    color: #2067DD;
+}
+.row1 ::placeholder{
+    font-family: 'open_sanslight';
+    font-size: 14px;
+    color: #748EAA;
+}
+
+.footer h2{
+    font-family: 'open_sansregular';
+    font-size: 15px;
+}
